@@ -1,0 +1,31 @@
+html {
+  background-color: #c9b5ab
+}
+
+h1 {
+  font-family: 'PT Serif', serif;
+  color: #3f1622;
+}
+
+nav {
+  font-family: 'PT Serif', serif;
+  color: #8f2440;
+
+}
+
+a {
+  text-decoration: none;
+
+}
+
+nav: hover {
+  color: #3f1622;
+}
+
+aside a {
+  color: #8f2440;
+}
+
+aside a: hover {
+  text-decoration: underline;
+}
