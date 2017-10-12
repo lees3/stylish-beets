@@ -5,6 +5,7 @@ html {
 h1 {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
+  font-weight: bolder;
 }
 
 nav {
@@ -17,10 +18,10 @@ a {
 }
 
 ol {
-  list-style-type: "none";
+  list-style-type: none;
   font-family: "PT Sans", sans-serif;
-  font-weight: bolder;
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 a:hover {
@@ -49,4 +50,17 @@ img {
   font-size: 1.5rem;
   font-weight: bold;
   color: #222;
+}
+
+.class {
+  font-size: 1.125rem;
+}
+.beet {
+  font-weight: bold;
+}
+
+
+.jim {
+  text-align: left;
+  font-size: 1.125rem;
 }
