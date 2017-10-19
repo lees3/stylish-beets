@@ -5,16 +5,23 @@ html {
 h1 {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
-  font-weight: bolder;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 19px;
+  margin-bottom: -6px;
 }
 
 nav {
   font-family: "PT Serif", serif;
+  line-height: 1.08;
+  font-weight: bolder;
 }
 
 a {
   text-decoration: none;
   color: #8f2440;
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
 ol {
@@ -40,10 +47,12 @@ figcaption {
   font-style: italic;
   text-align: center;
   font-size: 1.125rem;
+  font-weight: normal;
 }
 
 img {
   width: 100%;
+  margin-bottom: 5px;
 }
 
 .harvest {
