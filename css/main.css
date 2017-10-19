@@ -101,9 +101,10 @@ h2 {
 
 dt {
   font-weight: bold;
-  display: inline-block;
 }
 
 data {
   font-weight: normal;
+  display: block;
+  margin: 10px;
 }
