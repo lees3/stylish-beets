@@ -33,6 +33,7 @@ ol {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
 
 aside a {
@@ -46,8 +47,9 @@ aside a:hover {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: 1.125rem;
+  font-size: 1.05rem;
   font-weight: normal;
+  margin-bottom: 23px;
 }
 
 img {
@@ -56,20 +58,52 @@ img {
 }
 
 .harvest {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: bold;
   color: #222;
 }
 
 .class {
   font-size: 1.125rem;
+  font-stretch: normal;
 }
+
 .beet {
   font-weight: bold;
 }
 
-
 .jim {
-  text-align: left;
+  text-align: justify;
   font-size: 1.125rem;
+}
+
+.salad {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+h2 {
+  color: #3f1622;
+}
+
+.varieties {
+  font-size: 1rem;
+  font-weight: normal;
+  font-family: serif;
+  list-style-type: lower-greek;
+  line-height: 1.5;
+}
+
+.serving {
+  font-style: italic;
+  font-size: 1.125rem;
+}
+
+dt {
+  font-weight: bold;
+  display: inline-block;
+}
+
+data {
+  font-weight: normal;
 }
